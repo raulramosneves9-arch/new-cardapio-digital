@@ -1,0 +1,104 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Bruschetta de Tomate",
+            "category": "appetizers",
+            "description": "Pão tostado com tomate fresco e manjericão",
+            "price": 15.90,
+            "image": "https://via.placeholder.com/300x200?text=Bruschetta",
+            "available": true,
+            "rating": 4.5,
+            "reviews": 28
+        },
+        {
+            "id": 2,
+            "name": "Camarão ao Alho",
+            "category": "appetizers",
+            "description": "Camarões suculentos salteados com alho e azeite",
+            "price": 22.90,
+            "image": "https://via.placeholder.com/300x200?text=Camarao",
+            "available": true,
+            "rating": 4.8,
+            "reviews": 45
+        },
+        {
+            "id": 3,
+            "name": "Bife à Parmegiana",
+            "category": "main-course",
+            "description": "Bife macio coberto com molho de tomate e queijo derretido",
+            "price": 58.90,
+            "image": "https://via.placeholder.com/300x200?text=Bife",
+            "available": true,
+            "rating": 4.7,
+            "reviews": 62
+        },
+        {
+            "id": 4,
+            "name": "Peixe Grelhado",
+            "category": "main-course",
+            "description": "Peixe fresco do dia grelhado com limão e ervas",
+            "price": 52.90,
+            "image": "https://via.placeholder.com/300x200?text=Peixe",
+            "available": true,
+            "rating": 4.6,
+            "reviews": 38
+        },
+        {
+            "id": 5,
+            "name": "Massa à Carbonara",
+            "category": "main-course",
+            "description": "Talharim cremoso com bacon, ovos e queijo parmesão",
+            "price": 42.90,
+            "image": "https://via.placeholder.com/300x200?text=Pasta",
+            "available": true,
+            "rating": 4.9,
+            "reviews": 71
+        },
+        {
+            "id": 6,
+            "name": "Tiramisu",
+            "category": "desserts",
+            "description": "Delicioso sobremesa italiana com mascarpone e café",
+            "price": 18.90,
+            "image": "https://via.placeholder.com/300x200?text=Tiramisu",
+            "available": true,
+            "rating": 4.8,
+            "reviews": 55
+        },
+        {
+            "id": 7,
+            "name": "Brigadeiro Gourmet",
+            "category": "desserts",
+            "description": "Brigadeiro premium com cobertura de chocolate belga",
+            "price": 12.90,
+            "image": "https://via.placeholder.com/300x200?text=Brigadeiro",
+            "available": true,
+            "rating": 4.7,
+            "reviews": 42
+        },
+        {
+            "id": 8,
+            "name": "Suco Natural de Laranja",
+            "category": "beverages",
+            "description": "Suco fresco espremido na hora",
+            "price": 8.90,
+            "image": "https://via.placeholder.com/300x200?text=Suco",
+            "available": true,
+            "rating": 4.6,
+            "reviews": 33
+        },
+        {
+            "id": 9,
+            "name": "Vinho Tinto Reserva",
+            "category": "beverages",
+            "description": "Vinho tinto de qualidade premium",
+            "price": 85.00,
+            "image": "https://via.placeholder.com/300x200?text=Vinho",
+            "available": true,
+            "rating": 4.9,
+            "reviews": 28
+        }
+    ]
+}
