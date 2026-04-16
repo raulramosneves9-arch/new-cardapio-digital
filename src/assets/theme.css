@@ -97,3 +97,22 @@ body {
 .btn:hover {
     opacity: 0.9;
 }
+
+.custom-navbar {
+    background: #1a0f0a;
+    border-bottom: 2px solid #d4a017;
+}
+
+.nav-link {
+    color: #ddd !important;
+}
+
+.nav-link:hover {
+    color: #d4a017 !important;
+}
+
+.btn-login {
+    background: linear-gradient(135deg, #6a0dad, #8a2be2);
+    color: white;
+    border-radius: 10px;
+}
