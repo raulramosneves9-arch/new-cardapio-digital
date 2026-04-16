@@ -1,14 +1,13 @@
 <template>
-  <nav class="navbar">
-    <!-- Navigation bar component -->
-  </nav>
+    <nav class="navbar">
+        <!-- Navigation bar component -->
+    </nav>
 </template>
 
 <script>
 export default {
-  name: 'NavBar',
+    name: 'NavBar',
 }
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
