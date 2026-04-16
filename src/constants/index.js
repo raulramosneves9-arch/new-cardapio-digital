@@ -1,6 +1,6 @@
 // Application constants
 
-export const API_BASE_URL = process.env.VUE_APP_API_BASE_URL || 'http://localhost:3000/api'
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000/api'
 
 export const CATEGORIES = {
     APPETIZERS: 'appetizers',
@@ -22,3 +22,5 @@ export const NOTIFICATION_TYPES = {
     WARNING: 'warning',
     INFO: 'info',
 }
+
+export const ALL_CATEGORY = 'all'
