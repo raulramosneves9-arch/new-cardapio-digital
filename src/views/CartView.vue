@@ -1,15 +1,15 @@
-<template>
-  <div class="cart-view">
-    <h1>Cart</h1>
-    <!-- Cart page content -->
-  </div>
-</template>
-
 <script>
+import { formatBRL } from '@/utils/format'
+
 export default {
-  name: 'CartView',
+    name: 'CartView',
 }
 </script>
 
-<style scoped>
-</style>
+<template>
+    <div class="cart-view">
+        <h1>Cart</h1>
+    </div>
+</template>
+
+<style scoped></style>

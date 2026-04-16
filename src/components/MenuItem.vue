@@ -1,14 +1,14 @@
-<template>
-  <div class="menu-item">
-    <!-- Menu item component -->
-  </div>
-</template>
-
 <script>
+import { formatBRL } from '@/utils/format'
+
 export default {
-  name: 'MenuItem',
+    name: 'MenuItem',
 }
 </script>
 
-<style scoped>
-</style>
+<template>
+    <div class="menu-item">
+    </div>
+</template>
+
+<style scoped></style>
