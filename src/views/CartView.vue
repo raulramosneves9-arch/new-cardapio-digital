@@ -1,6 +1,5 @@
 <script>
 import { formatBRL } from '@/utils/format'
-
 export default {
     name: 'CartView',
 }
